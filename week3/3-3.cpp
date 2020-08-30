@@ -16,6 +16,7 @@ int main()
 	getName();
 	getScore();
 	processScore();
+	ranking();
 
 	return 0;
 }
@@ -65,9 +66,6 @@ void ranking()
 {
 	for (int i=0;i<4;i++)
 	{
-		if ()
-		{
-
-		}
+		cout << teamName[i] << totalScore[i] << endl;
 	}
 }
