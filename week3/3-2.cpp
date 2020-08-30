@@ -7,7 +7,7 @@ bool haveAns = false;
 void getStr();
 void checkEach();
 
-int main()
+int main3()
 {
 
 	cin >> strN >> N;
